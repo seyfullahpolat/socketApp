@@ -1,0 +1,7 @@
+<resources>
+	<string name="app_name">WebSocket</string>
+	<string name="foo_name">Foo Name</string>
+	<string name="foo_id">Foo Id</string>
+	<string name="enter_to_message">Enter to Message</string>
+	<string name="iml_action_name">Ok</string>
+</resources>
