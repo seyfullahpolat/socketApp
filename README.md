@@ -1,3 +1,3 @@
 # socketApp
 
-![alt text](https://youtu.be/rnAVMtwuM-4)
+[linkname](https://www.youtube.com/watch?v=rnAVMtwuM-4)
